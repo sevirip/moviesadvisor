@@ -18,3 +18,8 @@ external information, _e.g._, from http://www.allocine.fr/
 * http://www.allocine.fr/
 * http://www.amazon.com/
 * https://en.wikipedia.org/wiki/Recommender_system
+
+## Authors
+
+* Pompée Pierre-Yves
+* Rigaud Maxime
